@@ -1,0 +1,35 @@
+body{
+	background-image: url("https://thumbor.thedailymeal.com/aFqk6dw6RxPcINaJTAdSYinZOw8=/774x516/filters:focal(696x565:697x566):format(webp)/https://www.thedailymeal.com/sites/default/files/story/2016/supermarketcart.JPG");
+	background-size: cover;
+}
+
+div{
+	width: 50%;
+	margin: auto;
+}
+
+h1{
+	color: gray;
+}
+
+input{
+height: 20px;
+}
+
+#enter{
+	background-color: darkgray;
+	color: black;
+	padding: 5px;
+	border-radius: 8px;
+}
+
+.done{
+	text-decoration: line-through #ff3c3c;
+}
+
+.deleteButton{
+	background-color: lightgray;
+	color: blue;
+	font-weight: bold;
+	border-radius: 5px;
+}
